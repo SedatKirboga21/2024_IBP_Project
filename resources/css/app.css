@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-turquoise {
+    background-color: #06b6d4; 
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-gray-100 {
+    background-color: #f7fafc;
+}
+
+.bg-lightgreen {
+    background-color: #f0fff4; 
+}
